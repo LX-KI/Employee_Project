@@ -1,0 +1,1 @@
+This takes in input from the user then stores the emp details such as employee id, name, department along with department details such as department id, department name and the designation in an arrayList.
